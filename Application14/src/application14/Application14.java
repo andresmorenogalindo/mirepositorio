@@ -1,6 +1,6 @@
 package application14;
 public class Application14 {
-  public static void main(String[] args) {
-        // TODO code application logic here
+  public  static void main(String[] args) {
+         // TODO code application logic here
   }
 }
